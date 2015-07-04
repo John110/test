@@ -1,6 +1,0 @@
-=begin rdoc
-テスト
-=end
-
-# Classes
-class Sample
